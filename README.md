@@ -1,4 +1,4 @@
-# fixfo
+# Fixfo
 
 A new Flutter project.
 
